@@ -1,4 +1,4 @@
-package thi;
+package VuTruongSon_ADF1;
 
 public class bank {
     private double balance;

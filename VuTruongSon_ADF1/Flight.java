@@ -1,4 +1,4 @@
-package thi;
+package VuTruongSon_ADF1;
 
 public class Flight {
     public int number;
